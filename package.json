@@ -1,11 +1,23 @@
 {
-  "name": "my-project",
+  "name": "cmd-define",
   "version": "1.0.0",
-  "description": "Learning npm",
+  "description": "I wanted to get the definition of a word through the command line. So I built this.",
   "main": "define.js",
+  "author": "Bons Ralph",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Bons Ralph",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bons-ralph/cmd-define.git"
+  },
+  "keywords": [
+    "cmd",
+    "define"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bons-ralph/cmd-define/issues"
+  },
+  "homepage": "https://github.com/bons-ralph/cmd-define#readme"
 }
